@@ -21,7 +21,8 @@ public class EjercicioGit {
         System.out.println("Hello git");
         System.out.println("modificacion  entrada");
         System.out.println("");
-        System.out.println("Añadido de prueba para ver github");
+        System.out.println("Añadido de prueba para ver con push");
+        System.out.println("ahora esta en rama prueba_pull_request");
         
     }
 
