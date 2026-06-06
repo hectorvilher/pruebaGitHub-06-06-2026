@@ -20,7 +20,7 @@ public class EjercicioGit {
         Scanner sc = new Scanner(System.in);
         System.out.println("Hello git");
         System.out.println("modificacion  entrada");
-        
+        System.out.println("");
         
     }
 
